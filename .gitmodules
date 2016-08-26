@@ -1,0 +1,12 @@
+[submodule "a"]
+	path = a
+	url = C:/Users/Administrator/git/a
+[submodule "b"]
+	path = b
+	url = C:/Users/Administrator/git/b
+[submodule "c"]
+	path = c
+	url = C:/Users/Administrator/git/c
+[submodule "d"]
+	path = d
+	url = C:/Users/Administrator/git/d
