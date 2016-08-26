@@ -1,12 +1,12 @@
 [submodule "a"]
 	path = a
-	url = C:/Users/Administrator/git/a
+	url = git@github.com:xutm/a.git
 [submodule "b"]
 	path = b
-	url = C:/Users/Administrator/git/b
+	url = git@github.com:xutm/b.git
 [submodule "c"]
 	path = c
-	url = C:/Users/Administrator/git/c
+	url = git@github.com:xutm/c.git
 [submodule "d"]
 	path = d
-	url = C:/Users/Administrator/git/d
+	url = git@github.com:xutm/d.git
